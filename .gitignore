@@ -1,0 +1,12 @@
+# Genoma de referencia y datasets de NCBI (demasiado pesados para git)
+DNAref/*
+!DNAref/.gitkeep
+ncbi_dataset.zip
+ncbi_dataset/
+
+# Checkpoints de Jupyter
+.ipynb_checkpoints/
+
+# Archivos de sistema
+Thumbs.db
+.DS_Store
